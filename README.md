@@ -22,3 +22,4 @@
 1.22 perfect squres.py
 1.23 water container.py
 1.24 add 2 binary.py
+1.25  calculater.py
