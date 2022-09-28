@@ -28,3 +28,4 @@
 1.28 factorial.py
 1.29 triangle.py
 1.30 upper and lower.py
+1.31 perfect number.py
