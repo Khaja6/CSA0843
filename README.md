@@ -23,3 +23,8 @@
 1.23 water container.py
 1.24 add 2 binary.py
 1.25  calculater.py
+1.26 max and min .py
+1.27 mirror.py
+1.28 factorial.py
+1.29 triangle.py
+1.30 upper and lower.py
