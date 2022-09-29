@@ -30,3 +30,10 @@
 1.30 upper and lower.py
 1.31 perfect number.py
 1.32 sum square.py
+1.33 pattern day2.py
+1.34 combinations.py
+1.35 skipping.py
+1.36 simple interest.py
+1.37 merge.py
+1.38 pallindrome.py
+1.39 leap year.py
