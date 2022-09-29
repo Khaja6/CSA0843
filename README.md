@@ -33,6 +33,11 @@
 1.33 pattern day2.py
 1.34 combinations.py
 1.35 skipping.py
+1.36 add matrix.py
+1.37 max.no,words.py
+1.38 day4 sq,cube.py
+1.39 day4 reverse string.py
+
 1.36 simple interest.py
 1.37 merge.py
 1.38 pallindrome.py
