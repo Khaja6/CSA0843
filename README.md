@@ -41,3 +41,6 @@
 41. leap year.py
 42. day4 sq and cube.py
 43. day4 reverse string.py
+44. day4 reverse number.py
+45. vowels.py
+46. ascending order.py
