@@ -37,7 +37,7 @@
 37. max.no,words.py
 38. simple interest.py
 39. merge.py
-40.pallindrome.py
-41.leap year.py
-42.day4 sq and cube.py
-43.day4 reverse string.py
+40. pallindrome.py
+41. leap year.py
+42. day4 sq and cube.py
+43. day4 reverse string.py
