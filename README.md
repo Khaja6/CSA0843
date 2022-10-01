@@ -45,3 +45,5 @@
 45. vowels.py
 46. ascending order.py
 47. studentuser.py
+48. Mean, mode,median.py
+49. Vowels constants.py
