@@ -47,3 +47,13 @@
 47. studentuser.py
 48. Mean, mode,median.py
 49. Vowels constants.py
+50. Pattern.py
+51. Eligible for vote.py
+52. Integers.py
+53. Frequnecs.py
+54. Pow, add, mul
+55.lcm and gcd
+56. String.py
+57. Smaller and greater.py
+58. Perfect num dy5.py
+59. Count pc.py
